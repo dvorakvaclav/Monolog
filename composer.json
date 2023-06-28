@@ -18,7 +18,7 @@
 		}
 	],
 	"require": {
-		"php": "^7.1  || ^7.2  || ^7.3",
+		"php": "^7.1  || ^7.2  || ^7.3 || ^8.0 || ^8.1",
 		"nette/di": "^3.0",
 		"kdyby/strict-objects": "^2.0",
 		"monolog/monolog": "^2.0",
